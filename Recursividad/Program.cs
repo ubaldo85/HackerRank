@@ -10,7 +10,7 @@ namespace Recursividad
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola mundo");
+            Console.WriteLine("hola mundo v2");
             Console.ReadLine();
         }
     }
